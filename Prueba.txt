@@ -1,2 +1,3 @@
 Hola PRUEBA
-git es bien
+texto añadido por mi
+git es bien, SOLUCIONADO
